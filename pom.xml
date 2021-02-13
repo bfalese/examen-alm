@@ -4,7 +4,7 @@
 	<groupId>examen</groupId>
 	<artifactId>almundo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Examen almundo</name>
+	<name>Examen almundo!</name>
 	<build>
 		<plugins>
 			<plugin>
